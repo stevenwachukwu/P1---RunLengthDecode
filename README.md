@@ -1,4 +1,5 @@
 Program 1: Decoding a Compressed File
+
 1 Goals of this Assignment
 1. To identify a compiler and an IDE that will meet your needs for this course.
 2. To write a program in C++.
